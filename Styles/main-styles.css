@@ -192,10 +192,6 @@ body {
     }
 }
 
-
-
-
-
 #main {
     position: relative;
     background-color: #151515;
@@ -330,7 +326,7 @@ body {
 
 
 #video-cursor {
-    background-color: #FFA63D;
+/*     background-color: #FFA63D; */
     height: 9vw;
     width: 9vw;
     border-radius: 50%;
